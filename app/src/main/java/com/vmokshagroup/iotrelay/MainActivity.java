@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
      );*/
 
 
-    private static final String COGNITO_POOL_ID = "YOUR COGNITO POOL ID";
+    private static final String COGNITO_POOL_ID = "us-east-1:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";
     // Name of the AWS IoT policy to attach to a newly created certificate
     private static final String AWS_IOT_POLICY_NAME = "YOUR THING POLICY NAME";
 
