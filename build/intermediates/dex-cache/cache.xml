@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d2c4a42c2f8129bc84e820bd99198bb059a567c">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc63ded28c0af9d534181369cdddb4082c0c1294\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_90a380d7048020867a45c4a084788882ad3d6ff9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_01a326b736a8faec33ad1f51219c598a4238add2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_f571e46ee0035afed586441588a102238c35af3b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_406dfaee2c89e854dd8df66dbb97f8375503810c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dbda2ed83d8ff2f0b159c7a71c1d992852f9c82">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f6545b919edf1a8fe0c2a1764179d696a1d08d2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android_SDK\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_f8c94488be82631cc59a9b6dfb3bdbd3038f2101\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\android_studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_c4d3ba114dba2fff5a8d144f3683a8d183d0dc02\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mehtermu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-iot\2.2.18\dcc376c6251a02fbd0fec2ddf652d84b7338f323\aws-android-sdk-iot-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dcc376c6251a02fbd0fec2ddf652d84b7338f323">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-iot-2.2.18_d1530351a4c98ccae9791b805637546c5bd00fbd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1ce828fc0ce4dc16c07c0180833008b6e580fbf1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_1020d45292650c8ef542ddd54668c34d17a40ffe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mehtermu\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.3-SNAPSHOT\364bbb31f264b2de958c5a0437de478af18ae7\org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="00364bbb31f264b2de958c5a0437de478af18ae7">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT_bd529dd0998543c96a3de9872cb014c418287bbb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_d1aef5492a997f68564904ed08db79021424d70b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mehtermu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.18\802a5fa1642253476592c2ee55930578e499fe63\aws-android-sdk-core-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="802a5fa1642253476592c2ee55930578e499fe63">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.18_93b5d0a8b33503aee4eae75c33c8e6a661c8def6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mehtermu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.18\c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd\aws-android-sdk-cognito-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd">
+        <dex dex="D:\Muzz\Vmoksha IOT\Iot Bootcamp Android Code\IotRelay\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.2.18_633d16d9cdc32ea3855b713d5653cdd3e4e31b12\classes.dex" />
+    </item>
+
+</items>
