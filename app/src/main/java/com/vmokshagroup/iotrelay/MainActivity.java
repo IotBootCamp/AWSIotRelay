@@ -35,10 +35,17 @@ public class MainActivity extends AppCompatActivity {
     // --- Constants to modify per your configuration ---
 
     // IoT endpoint
-    // AWS Iot CLI describe-endpoint call returns: XXXXXXXXXX.iot.<region>.amazonaws.com
-    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "YOUR THING END POINT";
+    // Replace XXXXXXXXXX.iot.<region>.amazonaws.com with your AWS IOT Things REST API endpoint https://XXXXXXXXXX.iot.<region>.amazonaws.com/things/YourThings/shadow
+    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "XXXXXXXXXX.iot.<region>.amazonaws.com";
     // Cognito pool ID. For this app, pool needs to be unauthenticated pool with
-    // AWS IoT permissions.
+
+   /* CognitoCachingCredentialsProvider credentialsProvider = new CognitoCachingCredentialsProvider(
+             getApplicationContext(),
+             "us-east-1:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", // YOUR COGNITO POOL ID
+             Regions.US_EAST_1 // Region
+     );*/
+
+
     private static final String COGNITO_POOL_ID = "YOUR COGNITO POOL ID";
     // Name of the AWS IoT policy to attach to a newly created certificate
     private static final String AWS_IOT_POLICY_NAME = "YOUR THING POLICY NAME";
